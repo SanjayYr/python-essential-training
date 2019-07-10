@@ -1,0 +1,1 @@
+sed -i '/BHG/ c __author__ = "Sanjay Yellambalase Ravikumar"' *
