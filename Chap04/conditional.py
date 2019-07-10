@@ -8,3 +8,22 @@ elif False:
     print('elif true')
 else:
     print('neither true')
+
+
+"""
+Logical operators:
+    and
+    or
+    not
+
+Identity operators:
+    x is y      # True if the same object
+    x is not y
+
+Membership operator:
+    x in y
+    x not in y
+
+
+
+"""
